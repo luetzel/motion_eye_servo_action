@@ -27,7 +27,7 @@ Adafruit Shield -> Raspberry Pi
 Vertical servo -> Channel 0
 Horizontal servo -> Channel 1
 
-Since micro servos tend to make some noise, when idle, they can be powered-off by
+Since micro servos tend to make some noise when idle, they can be powered-off by
 pulling the Enable Output (EO) Pin to HIGH.
 
 ## Installation
