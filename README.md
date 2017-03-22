@@ -8,9 +8,10 @@ Collection of Python scripts to add pan-tilt action buttons to [motionEye](https
 A pan-tilt bracket, equipped with two SG90 standard servos is wired to an [Adafruit PCA9685 16-channel servo driver](https://learn.adafruit.com/adafruit-16-channel-servo-driver-with-raspberry-pi)
 to control a Raspberry Pi Cam.
 
-![Image](https://github.com/luetzel/motion_eye_servo_action/pan-tilt.jpg)
+![Image](https://github.com/luetzel/motion_eye_servo_action/blob/master/pan-tilt.jpg)
 
-The scripts add action buttons (up/down, lef/right) to the camera overlay, in order to pan/tilt the camera. 
+The scripts add action buttons (up/down, lef/right) to the camera overlay, in order to pan/tilt the camera.
+Current servo positions are stored as integer values in file vert_pos and horz_pos.
 
 # Wiring
 
