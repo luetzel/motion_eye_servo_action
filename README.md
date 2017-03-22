@@ -17,12 +17,12 @@ Current servo positions are stored as integer values in file vert_pos and horz_p
 
 Adafruit Shield -> Raspberry Pi
 
-* V+                 +5V
-* Vcc                +3V
-* SDA                SDA
-* SCL                SCL
-* EO                 BCM_GPIO18
-* GND                GND
+* V+ -> +5V
+* Vcc -> +3V
+* SDA -> SDA
+* SCL -> SCL
+* EO -> BCM_GPIO18
+* GND -> GND
 
 Vertical servo -> Channel 0
 Horizontal servo -> Channel 1
